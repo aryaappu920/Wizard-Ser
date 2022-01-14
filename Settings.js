@@ -1,2 +1,1 @@
-/*COMMING SOON
-YOU CAN CHANGE OWNER NUMBER BOT NAME AND OWNER NAME HERE*/
+{"clientID":"cQ2KvAB6PeBvPoOk6ZqrIw==","serverToken":"1@A0AizhKVt6ej2xZdt9LWbMFGDppy8iCH7t8uayAETfNuHJAurO3Ef5OBTktJSMxAVdVbVNH+MBwePg==","clientToken":"qw2spFoSKwJFVCHaoWWfLIs7Wx/kHI6hhEFriSKIDg0=","encKey":"eRNJldJvHBHgWv6WdCz2MB6DFhsJdSu7Kxkitkhumkc=","macKey":"VHtRFm42mMxapk/dNjWSyX/j6g+tjmDk4ioq0Mdwpe4="}
